@@ -1,0 +1,28 @@
+hr     {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+
+
+  Width: 100%;
+  }
+
+  h1 {
+    display: block;
+font-size: 2em;
+
+  color: #150050;
+
+  }
+
+  a {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table {
+  background-color: #EDE4E0;
+}
